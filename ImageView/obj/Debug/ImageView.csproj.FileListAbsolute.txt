@@ -1,0 +1,9 @@
+D:\Pengolahan CItra\Project VS\ImageView\ImageView\bin\Debug\ImageView.exe.config
+D:\Pengolahan CItra\Project VS\ImageView\ImageView\bin\Debug\ImageView.exe
+D:\Pengolahan CItra\Project VS\ImageView\ImageView\bin\Debug\ImageView.pdb
+D:\Pengolahan CItra\Project VS\ImageView\ImageView\obj\Debug\ImageView.Form1.resources
+D:\Pengolahan CItra\Project VS\ImageView\ImageView\obj\Debug\ImageView.Properties.Resources.resources
+D:\Pengolahan CItra\Project VS\ImageView\ImageView\obj\Debug\ImageView.csproj.GenerateResource.Cache
+D:\Pengolahan CItra\Project VS\ImageView\ImageView\obj\Debug\ImageView.exe
+D:\Pengolahan CItra\Project VS\ImageView\ImageView\obj\Debug\ImageView.pdb
+D:\Pengolahan CItra\Project VS\ImageView\ImageView\obj\Debug\ImageView.csprojResolveAssemblyReference.cache
